@@ -1,0 +1,6 @@
+interface:
+  display_name: "Website Copy & Typography"
+  short_description: "Evidence-led web copy and readable type"
+  default_prompt: "Use $website-copy-typography to draft and QA the copy and typography for this website page."
+policy:
+  allow_implicit_invocation: true
