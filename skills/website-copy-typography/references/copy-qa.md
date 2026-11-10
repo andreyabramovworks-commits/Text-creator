@@ -26,6 +26,8 @@ Score each dimension `pass / revise / blocked by missing evidence`. A missing so
 - [ ] CTAs describe their result and match the actual path.
 - [ ] Each card has a distinct job; repeated card copy has been consolidated.
 - [ ] FAQ questions come from evidence or are marked as hypotheses.
+- [ ] Every news headline, lead, body and photo describe the same verified story.
+- [ ] The signup path answers the visitor's main practical questions before requesting commitment.
 
 ## Interface language
 

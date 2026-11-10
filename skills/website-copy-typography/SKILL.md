@@ -1,8 +1,8 @@
 ---
 name: website-copy-typography
-description: Write, restructure, edit, or typeset Russian and English website copy when a page needs accurate claims, clear hierarchy, conversion-focused calls to action, readable responsive typography, or copy QA. Use for landing pages, product pages, forms, onboarding, FAQ, and microcopy; not for inventing business facts or legal claims.
+description: Audit and improve copy and typography on an existing Russian or English website, or draft a new page. Use when headings, CTAs, news cards, photos, section hierarchy, responsive text placement, or conversion copy need to work together. Preserve verified facts and the page's purpose.
 metadata:
-  version: "0.1.0"
+  version: "0.2.0"
   language: "ru,en"
   license: "MIT"
 ---
@@ -30,6 +30,7 @@ If a critical field is absent, write a bounded draft using explicit placeholders
 
 - **Blank page or campaign:** read [page-recipes.md](references/page-recipes.md), select the smallest structure that lets the visitor decide, then draft from evidence.
 - **Existing page or interface:** diagnose hierarchy, terminology, friction, and missing recovery. Read [copy-qa.md](references/copy-qa.md).
+- **Existing landing page with photos or news:** read [existing-site-rewrite.md](references/existing-site-rewrite.md). Inventory every visible text element, match each image to its real subject, and edit copy in the rendered composition.
 - **Type system or implementation:** read [typography.md](references/typography.md); make choices from content density and brand character, then test the actual layout.
 - **Researching reusable methods or tools:** use [source-catalog.md](references/source-catalog.md). Confirm the upstream license before copying code, fonts, or substantial text.
 - **Selecting block patterns and examples:** read [page-recipes.md](references/page-recipes.md) and its source links. Treat every example as a writing model, never as customer evidence.
@@ -55,6 +56,8 @@ Unless the user asks for another format, return:
 3. final copy in page order, including CTA labels and necessary microcopy;
 4. type tokens and layout notes when design or code is in scope;
 5. the QA findings and unresolved factual questions.
+
+For an existing site, include a before/after map keyed to actual sections and elements. If implementation is in scope, change the site and verify the rendered result. If the user supplies only a screenshot, URL, or partial assets, make useful recommendations from what is visible and identify exactly which source material is still needed for the remaining edits.
 
 ## Verify in context
 
