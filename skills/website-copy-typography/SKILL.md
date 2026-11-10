@@ -33,6 +33,7 @@ If a critical field is absent, write a bounded draft using explicit placeholders
 - **Type system or implementation:** read [typography.md](references/typography.md); make choices from content density and brand character, then test the actual layout.
 - **Researching reusable methods or tools:** use [source-catalog.md](references/source-catalog.md). Confirm the upstream license before copying code, fonts, or substantial text.
 - **Selecting block patterns and examples:** read [page-recipes.md](references/page-recipes.md) and its source links. Treat every example as a writing model, never as customer evidence.
+- **Writing a specific block:** read [block-patterns.md](references/block-patterns.md) to choose by visitor readiness and proof.
 
 ## Drafting rules
 

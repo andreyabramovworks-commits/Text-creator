@@ -2,7 +2,7 @@
 
 Agent Skill для исследования, написания и проверки текстов сайтов на русском и английском, со структурой страниц и типографикой.
 
-Начните с [SKILL.md](skills/website-copy-typography/SKILL.md). Навык использует бриф и проверяемые исходные данные для текста, затем подбирает подходящую структуру и проверяет результат в реальном макете. [Рецепты страниц](skills/website-copy-typography/references/page-recipes.md), [типографика](skills/website-copy-typography/references/typography.md), [Copy QA](skills/website-copy-typography/references/copy-qa.md) и [каталог источников](skills/website-copy-typography/references/source-catalog.md) читаются по задаче.
+Начните с [SKILL.md](skills/website-copy-typography/SKILL.md). Навык использует бриф и проверяемые исходные данные для текста, затем подбирает подходящую структуру и проверяет результат в реальном макете. [Рецепты страниц](skills/website-copy-typography/references/page-recipes.md), [модели блоков](skills/website-copy-typography/references/block-patterns.md), [типографика](skills/website-copy-typography/references/typography.md), [Copy QA](skills/website-copy-typography/references/copy-qa.md) и [каталог источников](skills/website-copy-typography/references/source-catalog.md) читаются по задаче.
 
 ## Установка в Codex
 
